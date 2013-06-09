@@ -8,7 +8,6 @@ Node.js module for delivering optimized, minified, mangled, gzipped, and CDN-hos
 - [Contributors](#contributors)
 - [License](#license)
 
-
 ## Features
 
 * Automatic parsing of `background`, `background-image` and `content` for `url({{absoluteUrl}})` in stylesheets and scripts.
@@ -40,9 +39,23 @@ Assets are untouched, cachebusted, and delivered as typical local files for rapi
 
 Assets are optimized, minified, mangled, gzipped, delivered by Amazon CloudFront CDN, and hosted from Amazon S3.
 
+
+## Contributors
+
+* Christian Hubmann
+* Nick Baugh
+* James Wyse
+* Jon Keating
+* Andrew de Andrade
+* Joshua Gross
+* Dominik Lessel
+* Elad Ben-Israel
+
 ## License
 
 The MIT License
+
+Copyright (c) 2012- Nick Baugh niftylettuce@gmail.com (http://niftylettuce.com/)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
