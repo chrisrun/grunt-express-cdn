@@ -40,23 +40,9 @@ Assets are untouched, cachebusted, and delivered as typical local files for rapi
 
 Assets are optimized, minified, mangled, gzipped, delivered by Amazon CloudFront CDN, and hosted from Amazon S3.
 
-
-## Contributors
-
-* Nick Baugh <niftylettuce@gmail.com>
-* James Wyse <james@jameswyse.net>
-* Jon Keating <jon@licq.org>
-* Andrew de Andrade <andrew@deandrade.com.br>
-* [Joshua Gross](http://www.joshisgross.com) <josh@spandex.io>
-* Dominik Lessel <info@rocketeleven.com>
-* Elad Ben-Israel <elad.benisrael@gmail.com>
-
-
 ## License
 
 The MIT License
-
-Copyright (c) 2012- Nick Baugh niftylettuce@gmail.com (http://niftylettuce.com/)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
